@@ -75,7 +75,7 @@ def parse(content):
             if cells and 'encryption' in cells[-1]:
                 current_encryption = cells[-1].get('encryption')
             cells[-1].update({'encryption': current_encryption +
-                              '-enterprise'})
+                              '-e'})
         for expression in regexps:
             result = expression.search(line)
             if result:

@@ -14,7 +14,7 @@
     },
     {
         "signal_quality": "70",
-        "encryption": "wpa-enterprise",
+        "encryption": "wpa-e",
         "essid": "wifi2",
         "signal_level_dBm": "-39",
         "mode": "Master",
