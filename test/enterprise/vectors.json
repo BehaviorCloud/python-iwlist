@@ -1,0 +1,41 @@
+[
+    {
+        "signal_quality": "70",
+        "encryption": "wpa",
+        "essid": "wifi-1",
+        "signal_level_dBm": "-38",
+        "mode": "Master",
+        "mac": "DE:D4: 76:EF:CA:A0",
+        "frequency": "2.462",
+        "cellnumber": "01",
+        "signal_total": "70",
+        "channel": "11",
+        "frequency_units": "GHz"
+    },
+    {
+        "signal_quality": "70",
+        "encryption": "wpa-enterprise",
+        "essid": "wifi2",
+        "signal_level_dBm": "-39",
+        "mode": "Master",
+        "mac": "DC:A4:CA:EF: 76:D4",
+        "frequency": "2.462",
+        "cellnumber": "02",
+        "signal_total": "70",
+        "channel": "11",
+        "frequency_units": "GHz"
+    },
+    {
+        "signal_quality": "28",
+        "encryption": "off",
+        "essid": "wifi3",
+        "signal_level_dBm": "-82",
+        "mode": "Master",
+        "mac": "A8: 40: 41: 15: 4A:B8",
+        "frequency": "2.437",
+        "cellnumber": "03",
+        "signal_total": "70",
+        "channel": "6",
+        "frequency_units": "GHz"
+    }
+]
